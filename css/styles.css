@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightslategray;
+    color: black;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+header {
+    height: 80px;
+    padding: 0;
+    background-color: red;
+}
+
+
+.title1 {
+    border-radius: solid 8px;
+    background-color: rgb(86, 168, 251);
+    color: white;
+    height: 50px;
+    text-align: center;
+}
+
+.principalbutton {
+    color: gray;
+    border-radius: 4px;
+    height: 40px;
+    font-size: 20px;
+}
+
+p {
+    height: 50px;
+    font-size: 18px;
+}
+button {
+    color: whitesmoke
+    height: 40px;
+    border-radius: 2px;
+}
